@@ -55,17 +55,37 @@ I have no exact dimenions at the moment, but it should be a bit larger or longer
 The phone needs to have a keyboard and a large enough landscape display so that a user could have enough space.
 
 ## Display
-The phone would have a landscape display to accomodate the keyboard.
+The phone would have a landscape AMOLED display to accomodate the keyboard.
+
+## 5G network support
+The phone would support 5G networking.
+
+## Wi-Fi
+The phone would have Wi-Fi, unlike it's predecessor.
+
+## Bluetooth
+
+## USB
+USB Type-C 2.0, OTG.
 
 ## Keyboard
 The phone keypad would be replaced with a keyboard like the Blackerry phones have.
 Motive: Better typing and a more satisfying retro experience.
 
-## Camera
-The phone would have two front cameras, one normal with 25MP, one wide-angled with 25MP and one macro with 25MP.
+## CPU
+Qualcomm SM7150 Snapdragon 732G (8 nm)
+Octa-core (2x2.3 GHz Kryo 470 Gold & 6x1.8 GHz Kryo 470 Silver).
+
+## GPU
+Adreno 618.
 
 ## Storage
 The phone would have 64GB or 128GB of storage depending on the option.
+
+## Camera
+The phone's front facing camera would have 15 pixels.
+
+The phone would have two back cameras, one normal with 25MP, one wide-angled with 25MP and one macro with 25MP.
 
 ## Headphone jack
 The phone would have a headphone jack at the top in a similar [position](https://free3d.com/3d-model/samsung-galaxy-y-pro-b5510-9422.html) the [Galaxy Y Pro](https://www.gsmarena.com/samsung_galaxy_y_pro_b5510-4116.php) houses it.
