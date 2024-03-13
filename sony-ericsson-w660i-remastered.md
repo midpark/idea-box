@@ -68,6 +68,8 @@ The phone would have Wi-Fi, unlike it's predecessor.
 ## USB
 USB Type-C 2.0, OTG.
 
+## SD card slot
+
 ## Keyboard
 The phone keypad would be replaced with a keyboard like the Blackerry phones have.
 Motive: Better typing and a more satisfying retro experience.
