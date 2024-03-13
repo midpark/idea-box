@@ -67,7 +67,7 @@ The phone would have 64GB or 128GB of storage depending on the option.
 The phone would have a headphone jack at the top in a similar [position](https://free3d.com/3d-model/samsung-galaxy-y-pro-b5510-9422.html) the [Galaxy Y Pro](https://www.gsmarena.com/samsung_galaxy_y_pro_b5510-4116.php) houses it.
 
 ## Other
-- The Walkman button on the phone would be replaced with the button of the same shape, but with an e-ink display that changes to an icon of the app the user would assign. So the app button would basically be changable to anything the user sets.
+- The Walkman button on the phone would be replaced with the button of the same shape, but with an e-ink display that changes to an icon of the app the user would assign. So the app button would basically be changable to anything the user sets. For example, instead of the Walkman logo, there would be a Spotify logo if the user set the application button to launch Spotify.
 
 # Realization
 Building custom phones is not an easy task.
