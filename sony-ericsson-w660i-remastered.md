@@ -18,6 +18,7 @@ Preinstalled apps:
 - Gallery/Photos application
 - File manager
 - Terminal emulator (Something like Termux)
+- .JAR application runner (For old games like TowerBloxx, Bounce Tales and more)
 
 ## Root privileges
 Root access would be disabled by default.
