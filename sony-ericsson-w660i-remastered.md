@@ -4,7 +4,10 @@ This concept is a reimagination/remaster of the 2007 phone [Sony Ericsson W660i]
 I wouldn't say that this is anything inovative about this, just pure nostalgia. When I was about 10, I had the Sony Ericsson W660i and still today I think this was one of the most beautiful phones to exist. It was simply an honor to own it. Unfortunately, in the current landscape of tech, this phone is unusable. Since my childhood I've been glued to the 2000s designs of tech - the skeumorphic and gradient graphical user interfaces and the wacky phone designs that were trendy back in the time. Many phones had something unique then, but looking back, it was only natural, because the phone as a device was finding it's identity, it's why everyone was attempting to do something and see how it would work. Now, with touchscreens and phones with no keys and just pure screen, sidebuttons and a camera, there really isn't much you can add that would improve overall basic functionalities of a phone, it's all there. The only thing phones improve nowadays is storage, RAM and camera.
 
 # Software
-The phone would run a custom ARM Linux OS (that would be a fork of Alpine Linux) that would be built for this device. This would allow it to easily install and make software for it. The OS' kernel would require the information of the phone's hardware programmed/embedded into it.
+~~The phone would run a custom ARM Linux OS (that could be a fork of Alpine Linux) that would be built for this device. This would allow it to easily install and make software for it. The OS' kernel would require the information of the phone's hardware programmed/embedded into it.~~
+
+The phone would run a fork of the latest stock/clean Android version with custom software for this phone on top of it with a custom Android ROM like MIUI or TouchWiz.
+That way, the phone would also have access to apps from the Play Store like any Android phone. Tho, there is a potential issue with apps having to be forced to landscape mode due to the phone's display.
 
 ## Applications
 Preinstalled apps: 
@@ -14,11 +17,12 @@ Preinstalled apps:
 - Messaging application
 - Gallery/Photos application
 - File manager
-- Terminal emulator
+- Terminal emulator (Something like Termux)
 
 ## Root privileges
 Root access would be disabled by default.
-There would be a terminal program/executable that would be available for download by the manufacturer that would use a special kernel call that is not available elsewhere in the system to trigger the root permission activator.
+The phone would need to be rooted by the user to enable it.
+~~There would be a terminal program/executable that would be available for download by the manufacturer that would use a special kernel call that is not available elsewhere in the system to trigger the root permission activator.~~
 
 ## Interface
 ### Functionality
