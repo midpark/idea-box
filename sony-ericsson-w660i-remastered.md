@@ -69,5 +69,8 @@ The phone would have a headphone jack at the top in a similar [position](https:/
 ## Other
 - The Walkman button on the phone would be replaced with the button of the same shape, but with an e-ink display that changes to an icon of the app the user would assign. So the app button would basically be changable to anything the user sets. For example, instead of the Walkman logo, there would be a Spotify logo if the user set the application button to launch Spotify.
 
+# Price
+If the concept becomes accepted by a larger Chinese company and the phone model starts being actively manufactured, the phone price would not exceed 300$. It should be affordable to motivate people to buy it and promote the concept of retro styled phones.
+
 # Realization
 Building custom phones is not an easy task.
