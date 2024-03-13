@@ -56,7 +56,7 @@ The phone would have two front cameras, one normal with 25MP, one wide-angled wi
 The phone would have 64GB or 128GB of storage depending on the option.
 
 ## Headphone jack
-The phone would have a headphone jack at the top in a similar way the [Galaxy Y Pro](https://www.gsmarena.com/samsung_galaxy_y_pro_b5510-4116.php) [does](https://preview.free3d.com/img/2011/11/1688651781891950410/fyidz5a9.jpg).
+The phone would have a headphone jack at the top in a similar [position](https://free3d.com/3d-model/samsung-galaxy-y-pro-b5510-9422.html) the [Galaxy Y Pro](https://www.gsmarena.com/samsung_galaxy_y_pro_b5510-4116.php) houses it.
 
 ## Other
 - The Walkman button on the phone would be replaced with the button of the same shape, but with an e-ink display that changes to an icon of the app the user would assign. So the app button would basically be changable to anything the user sets.
