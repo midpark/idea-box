@@ -19,6 +19,7 @@ Preinstalled apps:
 - File manager
 - Terminal emulator (Something like Termux)
 - .JAR application runner (For old games like TowerBloxx, Bounce Tales and more)
+- Installation utility - This would be used to install apps that the user would probably have interest in, but aren't preinstalled like the Google Play Store
 
 ## Root privileges
 Root access would be disabled by default.
