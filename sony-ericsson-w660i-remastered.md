@@ -5,9 +5,22 @@ I wouldn't say that this is anything inovative about this, just pure nostalgia. 
 
 # Software
 The phone would run a custom ARM Linux OS (that would be a fork of Alpine Linux) that would be built for this device. This would allow it to easily install and make software for it. The OS' kernel would require the information of the phone's hardware programmed/embedded into it.
+
 ## Interface
+The phone would have a glassy skeumorphic interface that respects the standards of the era the phone was released in.
 
 # Hardware
+
+## Dimensions
+I have no exact dimenions at the moment, but it should be a bit larger or longer than [Samsung Galaxy Y Pro](https://www.gsmarena.com/samsung_galaxy_y_pro_b5510-4116.php) so that it could house in a larger display.
+The phone needs to have a keyboard and a large enough landscape display so that a user could have enough space.
+
+## Display
+The phone would have a landscape display to accomodate the keyboard.
+
+## Keyboard
+The phone keypad would be replaced with a keyboard like the Blackerry phones have.
+Motive: Better typing and a more satisfying retro experience.
 
 ## Camera
 The phone would have two front cameras, one normal with 25MP, one wide-angled with 25MP and one macro with 25MP.
