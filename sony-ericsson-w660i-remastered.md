@@ -7,7 +7,24 @@ I wouldn't say that this is anything inovative about this, just pure nostalgia. 
 The phone would run a custom ARM Linux OS (that would be a fork of Alpine Linux) that would be built for this device. This would allow it to easily install and make software for it. The OS' kernel would require the information of the phone's hardware programmed/embedded into it.
 
 ## Interface
+### Functionality
+**Home screen / Standby**
+The phone has a home screen where user can add widgets such as weather or analog clock.
+It should also display some basic information like digital time and date.
+User can also apply a wallpaper.
+
+**App menu**
+Applications would be organized into categories the same way the original phone was.
+
+**Customization**
+Users can change themes and wallpapers like on the original phone.
+
+### Theme
 The phone would have a glassy skeumorphic interface that respects the standards of the era the phone was released in.
+
+## Applications
+Preinstalled apps: 
+- Web browser (Chromium)
 
 # Hardware
 
