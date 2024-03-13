@@ -6,6 +6,20 @@ I wouldn't say that this is anything inovative about this, just pure nostalgia. 
 # Software
 The phone would run a custom ARM Linux OS (that would be a fork of Alpine Linux) that would be built for this device. This would allow it to easily install and make software for it. The OS' kernel would require the information of the phone's hardware programmed/embedded into it.
 
+## Applications
+Preinstalled apps: 
+- Web browser (Chromium)
+- Camera
+- Call application
+- Messaging application
+- Gallery/Photos application
+- File manager
+- Terminal emulator
+
+## Root privileges
+Root access would be disabled by default.
+There would be a terminal program/executable that would be available for download by the manufacturer that would use a special kernel call that is not available elsewhere in the system to trigger the root permission activator.
+
 ## Interface
 ### Functionality
 **Home screen / Standby**
@@ -21,10 +35,6 @@ Users can change themes and wallpapers like on the original phone.
 
 ### Theme
 The phone would have a glassy skeumorphic interface that respects the standards of the era the phone was released in.
-
-## Applications
-Preinstalled apps: 
-- Web browser (Chromium)
 
 # Hardware
 
@@ -44,6 +54,9 @@ The phone would have two front cameras, one normal with 25MP, one wide-angled wi
 
 ## Storage
 The phone would have 64GB or 128GB of storage depending on the option.
+
+## Headphone jack
+The phone would have a headphone jack at the top in a similar way the [Galaxy Y Pro](https://www.gsmarena.com/samsung_galaxy_y_pro_b5510-4116.php) does.
 
 ## Other
 - The Walkman button on the phone would be replaced with the button of the same shape, but with an e-ink display that changes to an icon of the app the user would assign. So the app button would basically be changable to anything the user sets.
