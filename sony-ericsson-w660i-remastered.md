@@ -30,6 +30,9 @@ User can also apply a wallpaper.
 **App menu**
 Applications would be organized into categories the same way the original phone was.
 
+**Status bar**
+The phone would have a control center that can be activated by swiping down from the top, similarly to Android.
+
 **Customization**
 Users can change themes and wallpapers like on the original phone.
 
