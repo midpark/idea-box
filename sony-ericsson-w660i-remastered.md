@@ -5,8 +5,8 @@ This concept is a reimagination/remaster of the 2007 phone [Sony Ericsson W660i]
 
 <table>
   <tr>
-    <td>1</td>
-    <td>2</td>
+    <td><img src="files/sew660ir_front_red.avif" width="260"></td>
+    <td><img src="files/sew660ir_front_black.avif" width="260"></td>
   </tr>
 </table>
 
