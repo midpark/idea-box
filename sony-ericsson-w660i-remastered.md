@@ -1,8 +1,5 @@
 This concept is a reimagination/remaster of the 2007 phone [Sony Ericsson W660i](https://www.gsmarena.com/sony_ericsson_w660-1924.php).
 
-<img src="files/sew660ir_front_red.avif" width="260">
-<img src="files/sew660ir_front_black.avif" width="260">
-
 <table>
   <tr>
     <td><img src="files/sew660ir_front_red.avif" width="260"></td>
