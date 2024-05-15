@@ -11,6 +11,8 @@ This is a concept for the Source 2 engine map for S&Box and it's suitable parkou
 # Feature concepts
 - Trains:
   - Trains can be rideable and hopped on to from New Eden and many other locations in the city.
+- Team Runners and Team Blues:
+  - People will be able to choose whether they want to hunt down the runners or rebel against the blues.
 
 # Execution
 S&Box, a(n) (upcoming) sandbox game using the Source 2 engine, does not have any map size constrains like Source 1 does. So it's theoretically possible to recreate the entire city of Mirror's Edge (2009) in S&Box using it's Hammer editor.
