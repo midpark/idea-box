@@ -2,7 +2,7 @@ This is a concept for the Source 2 engine map for S&Box and it's suitable parkou
 ![alttext](https://i.pinimg.com/originals/4b/a2/16/4ba216f7a58b1a49f704e400ebb7d40e.png)
 
 # Motivation
-- Just think how cool it would be if there was some kind of a Parkour server where people can make runner mafia groups and even play as "The Blues" that hunt down the runners!
+- Just think how cool it would be if there was some kind of a Parkour server where people can make runner groups and even play as "The Blues" that hunt down the runners!
 - Just think how cool it would be if people could roleplay similar scenarios like the one in the ending of Mirror's Edge where you'd have to run to the Shard (the tallest building in the game) to rescue someone by hijacking a helicopter!
 - People will be able to re-experience an old classic in an entirely new way.
 - So many new running/parkour paths (and time trails) will be made as the players explore the city.
